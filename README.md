@@ -1,1 +1,1 @@
-# .github
+# CPE KMUTT Project Hub
